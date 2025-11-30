@@ -1,6 +1,7 @@
 Comparative Analysis of Environmentally Conscious Energy Production in Europe
 Germany • France • Italy • Spain (2015–2022)
 A Data-Driven Study of Renewable vs Non-Renewable Energy Trends
+
 📌 Project Overview
 
 This project analyzes hourly energy production patterns across Germany, France, Italy, and Spain, comparing the adoption of renewable and non-renewable sources over time.
@@ -19,13 +20,18 @@ The analysis is based on the full research report provided in the repository.
 DSS Report
 
 📁 Repository Contents
-File	Description
-DSS Report.docx	Full research paper including analysis & policy recommendations. 
 
-DSS Report
+File	                         Description       	
+                  
+DSS Report.docx               Full research paper including analysis & policy recommendations.
 
 
-README.md	Documentation for the project.
+
+README.md                   	Documentation for the project.
+
+
+
+
 🧠 Research Motivation
 
 Europe has been at the forefront of the shift toward a more environmentally responsible energy sector.
@@ -39,7 +45,10 @@ Decline in fossil fuels
 
 Gaps and opportunities in sustainable energy
 
+
 📊 Dataset & Methodology
+
+
 🔹 Dataset Source
 
 ENTSO-E Transparency Platform (via Kaggle)
